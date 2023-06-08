@@ -9,5 +9,5 @@ One day a programmer fired up his terminal but found not his trusted prompt blin
 But to no avail. The programmer started to sweat and thought: "my god, I've been hacked". But that could have not been less true.
 
 
-![Terminal Gibberish](Exquisite-corpse-NikolaasW/assets/terminalgibberish.jpg)
-change
+![IMAGE](./assets/terminalgibberish.jpg)
+
