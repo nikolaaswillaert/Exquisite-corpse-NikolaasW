@@ -9,6 +9,7 @@ One day a programmer fired up his terminal but found not his trusted prompt blin
 A hack would have been less disturbing. Sometimes not even the most imaginative of minds can compete with the capricious nature of the natural world, and this time was no exception.
 
 some additions
+**lovely story! added by bocao**
 
 ![IMAGE](./assets/terminalgibberish.jpg)
 
