@@ -12,3 +12,5 @@ some additions
 
 ![IMAGE](./assets/terminalgibberish.jpg)
 
+When the programmer started up a new terminal, again the prompt started typing gibberish. Not only that, he started hearing annoying beeps from inside his machine! Wright then and there, he noticed there was a can of soda sitting on his G13 gamepad. Because of that, the machine was recieving input. That explained the beeping sound...  
+
